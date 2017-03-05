@@ -1,6 +1,6 @@
 {
   "name": "redux-trace",
-  "version": "0.0.25",
+  "version": "0.0.30",
   "description": "reduxe-trace it is a redux middleware that allows you to have a view on the state of your application and the actions that are dispatched, and this presented in a simple way to understand without extention",
   "main": "dist/index.js",
   "devDependencies": {
