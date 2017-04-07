@@ -10,12 +10,11 @@ it's a redux middleware that allows you to have a view on the state of your appl
 ## Installation
 
 ```js
-import ReTrace from 'redux-trace';
+import { agent } from 'redux-trace';
 ```
 
 ## Usage
 
 ```js
-const reTrace = new ReTrace(); 
-const store = createStore(rootReducer, initialState, applyMiddleware(reTrace.start));
+const store = createStore(rootReducer, initialState, applyMiddleware(agent()));
 ```
