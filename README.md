@@ -16,5 +16,5 @@ import { agent } from 'redux-trace';
 ## Usage
 
 ```js
-const store = createStore(rootReducer, initialState, applyMiddleware(agent()));
+const store = createStore(rootReducer, initialState, applyMiddleware(agent));
 ```
