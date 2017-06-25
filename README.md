@@ -1,6 +1,7 @@
+# redux-trace
+
 ![redux-trace](http://i.imgur.com/aSgXTGF.png)
 
-# redux-trace
 
 ![build status](https://travis-ci.org/hajjiTarik/redux-trace.svg?branch=master)
 [![npm version](https://badge.fury.io/js/redux-trace.svg)](https://badge.fury.io/js/redux-trace)
