@@ -19,3 +19,9 @@ import { agent } from 'redux-trace';
 ```js
 const store = createStore(rootReducer, initialState, applyMiddleware(agent));
 ```
+
+## Licence
+MIT
+
+## Author
+Hajji Tarik.
